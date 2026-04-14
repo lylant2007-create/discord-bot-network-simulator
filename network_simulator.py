@@ -33,3 +33,4 @@ Devices connected: {devices}
 
 Status: {status}
 """)
+bot.run("ur token")
