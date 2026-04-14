@@ -8,7 +8,7 @@ A simple Discord bot that simulates network scanning and cybersecurity scenarios
 ## 🚀 Invite the Bot
 
 👉 Click here to add NetSpectre to your server:
-**[Invite NetSpectre](https://discord.com/api/oauth2/authorize?client_id=YOUR_CLIENT_ID&permissions=2048&scope=bot%20applications.commands)**
+**[Invite NetSpectre](https://discord.com/oauth2/authorize?client_id=1493562413314736190&permissions=3072&integration_type=0&scope=bot+applications.commands)**
 
 ---
 
