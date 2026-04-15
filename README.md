@@ -54,6 +54,7 @@ python bot.py
 ## 👨‍💻 Author
 
 note: Runs locally and requires an active runtime environment
+
 Made by Lyla 🚀
 <img width="1404" height="753" alt="image" src="https://github.com/user-attachments/assets/4a71e983-5054-40c0-8acc-6b54aca36e35" />
 
